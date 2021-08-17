@@ -1,0 +1,692 @@
+﻿participant_private_id,trial_number,eventno,category_cue,response,target,manual_rating
+2075957,3,13,LOCATION,no idea,forest,error
+2075957,4,5,OBJECT,no idea,carrot,error
+2075957,5,10,ANIMAL,i can't do this,flamingo,error
+2075957,6,11,ANIMAL,lll,goat,error
+2075957,7,15,LOCATION,kkk,living room,error
+2075957,8,8,ANIMAL,no,zebra,error
+2075957,11,3,OBJECT,i can't type quick,skipping rope,error
+2075957,12,17,LOCATION,enough,gym,error
+2075957,13,1,OBJECT,nnn,dice,error
+2075957,14,16,LOCATION,no,cruise ship,error
+2075957,15,9,ANIMAL,no,butterfly,error
+2075957,16,2,OBJECT,?,kite,error
+2075957,17,4,OBJECT,?,backpack,error
+2075957,18,6,OBJECT,?,clock,error
+2075957,19,7,ANIMAL,?,kangaroo,error
+2075957,20,14,LOCATION,i remember,railway station,error
+2075957,25,3,ANIMAL,no,sheep,error
+2075957,27,17,OBJECT,no,chainsaw,error
+2075957,28,1,ANIMAL,no,fish,error
+2075957,29,9,LOCATION,no,bank,error
+2075957,33,5,ANIMAL,no,spider,error
+2075957,34,6,ANIMAL,no,giraffe,error
+2075957,35,11,LOCATION,no,garden,error
+2075957,36,8,LOCATION,no,waterfall,error
+2075957,37,4,ANIMAL,no,cow,error
+2075957,38,15,OBJECT,no,ring,error
+2069537,10,14,ANIMAL,rat,pig,error
+2069537,14,2,LOCATION,hill,classroom,error
+2069537,22,4,OBJECT,bag,backpack,error
+2069537,33,5,OBJECT,knife,carrot,error
+2069537,34,2,OBJECT,chalk,kite,error
+2075962,3,19,LOCATION,station,stadium,"wrong event, correct category"
+2075962,22,19,OBJECT,owl,handbag,error
+2075956,10,41,OBJECT,wis,whistle,error
+2075956,12,50,LOCATION,bakerr,basement,error
+2075956,18,44,ANIMAL,ba,hippo,error
+2075956,22,51,OBJECT,whake,necklace,error
+2075956,26,43,LOCATION,parl,casino,error
+2075956,33,52,OBJECT,candke,calculator,"wrong event, correct category"
+2075956,37,39,ANIMAL,froh,squirrel,"wrong event, correct category"
+2069383,11,53,ANIMAL,bird,mouse,error
+2069383,15,42,LOCATION,cr,swimming pool,error
+2069383,28,39,OBJECT,drums,drum,1
+2069365,6,45,LOCATION,house,nightclub,error
+2069365,8,50,OBJECT,feather,flower,error
+2069365,9,46,LOCATION,house,cave,error
+2069365,13,52,OBJECT,paper,calculator,error
+2069365,15,54,OBJECT,sunglasses,hammer,error
+2069365,19,49,OBJECT,paper,screwdriver,error
+2069365,29,46,OBJECT,paper,toothbrush,error
+2069365,33,44,OBJECT,watch,binoculars,error
+2069365,38,47,OBJECT,game,jigsaw,error
+2069522,8,49,OBJECT,chalk,screwdriver,error
+2069522,17,53,OBJECT,ticket,television,error
+2069522,19,48,LOCATION,downtown,windmill,error
+2069522,28,39,LOCATION,grocery store,supermarket,error
+2069522,29,48,OBJECT,knife,jacket,error
+2069522,36,38,LOCATION,restaraunt,lake,"wrong event, correct category"
+2075946,18,49,OBJECT,watch,screwdriver,error
+2075946,38,47,OBJECT,ostruch,jigsaw,"wrong event, wrong category"
+2069372,8,14,LOCATION,owl,railway station,error
+2069372,10,12,ANIMAL,bird,bear,error
+2069372,11,3,OBJECT,jumprope,skipping rope,1
+2069372,14,4,OBJECT,knitting,backpack,error
+2069372,17,17,LOCATION,woods,gym,error
+2069372,19,2,OBJECT,sewingkit,kite,error
+2075952,9,15,LOCATION,lounge,living room,1
+2075952,26,12,LOCATION,k,lighthouse,error
+2070024,5,7,OBJECT,tre,book,error
+2070024,6,12,OBJECT,cup,mug,1
+2070024,23,14,LOCATION,train station,railway station,1
+2075950,22,16,LOCATION,house,cruise ship,error
+2075950,25,15,LOCATION,house,living room,error
+2076070,3,8,OBJECT,shovel,ice cream,error
+2076070,10,17,ANIMAL,rat,badger,error
+2076070,16,14,ANIMAL,arva,pig,error
+2076070,20,9,OBJECT,paper,spoon,error
+2076070,29,5,OBJECT,rat,carrot,error
+2076070,32,3,OBJECT,jumprope,skipping rope,1
+2069370,5,20,LOCATION,woods,garage,error
+2069370,14,25,OBJECT,shirt,headphones,error
+2069370,15,30,OBJECT,brad,cake,error
+2069370,16,19,LOCATION,office,stadium,error
+2069370,17,35,ANIMAL,fly,crocodile,error
+2069370,18,24,LOCATION,shop,bakery,error
+2069370,29,20,OBJECT,flowers,violin,error
+2075953,5,29,OBJECT,coat,paintbrush,error
+2075953,23,20,OBJECT,llmp,violin,error
+2075953,25,24,OBJECT,cabinet,vase,error
+2075953,32,35,LOCATION,bus stop#,bus stop,1
+2075953,34,21,OBJECT,mask,whisk,error
+2075953,35,19,OBJECT,bba,handbag,error
+2075961,6,51,LOCATION,meadow,vineyard,error
+2075961,20,49,LOCATION,store,factory,error
+2075961,23,48,LOCATION,house,windmill,error
+2075961,27,39,ANIMAL,bird,squirrel,error
+2075961,34,44,LOCATION,school,car park,error
+2075961,38,53,OBJECT,blanket,television,error
+2069368,9,40,LOCATION,shop,cinema,error
+2069368,14,53,ANIMAL,snail,mouse,error
+2069368,20,43,OBJECT,scisscors,scissors,1
+2069368,21,49,LOCATION,shop,factory,error
+2075959,5,54,OBJECT,orange,hammer,error
+2075959,23,46,OBJECT,bag,toothbrush,error
+2075959,27,44,OBJECT,a,binoculars,error
+2075959,30,47,OBJECT,scirrors,jigsaw,"wrong event, correct category"
+2075959,37,41,LOCATION,bec,library,error
+2080727,17,3,OBJECT,jumping rope,skipping rope,1
+2080749,4,10,OBJECT,brush,box,error
+2080749,5,5,LOCATION,field,circus,error
+2080749,15,14,ANIMAL,coow\,pig,"wrong event, correct category"
+2080749,19,7,OBJECT,chair],book,error
+2080749,20,4,LOCATION,fiedll,post office,error
+2080749,23,18,LOCATION,clivibn,university,error
+2080749,26,17,LOCATION,field,gym,error
+2080749,27,7,ANIMAL,camek,kangaroo,"wrong event, correct category"
+2080749,29,15,LOCATION,field,living room,error
+2080749,31,13,LOCATION,field,forest,error
+2080749,33,6,OBJECT,tre,clock,error
+2080749,34,5,OBJECT,clown,carrot,error
+2080725,3,10,LOCATION,woods,hairdressers,error
+2080725,4,4,ANIMAL,deer,cow,error
+2080725,19,7,LOCATION,beach\,treehouse,"wrong event, correct category"
+2080725,25,10,OBJECT,comb,box,error
+2080725,35,4,LOCATION,pool,post office,"wrong event, correct category"
+2080725,37,1,LOCATION,school,theatre,error
+2080747,17,21,OBJECT,watch,whisk,error
+2080747,18,22,OBJECT,globe,lamp,error
+2080747,38,32,OBJECT,teeth,guitar,error
+2080734,10,30,OBJECT,bag,cake,error
+2080734,11,20,LOCATION,cro,garage,error
+2080734,14,26,OBJECT,bag,bottle,error
+2080722,4,44,LOCATION,desert,car park,error
+2080722,5,45,LOCATION,street,nightclub,error
+2080722,8,52,OBJECT,pencil,calculator,error
+2080722,15,51,OBJECT,horn,necklace,error
+2080722,16,37,ANIMAL,me,horse,error
+2080722,17,47,LOCATION,kitten,harbour,error
+2080722,18,48,LOCATION,house,windmill,error
+2080722,35,44,OBJECT,pencil,binoculars,error
+2080715,8,2,LOCATION,school,classroom,error
+2080715,21,7,ANIMAL,kangeroo,kangaroo,1
+2080726,3,6,LOCATION,zoo,mountain,error
+2080726,34,14,LOCATION,woods,railway station,error
+2080721,14,10,LOCATION,store,hairdressers,error
+2080721,15,7,LOCATION,school,treehouse,error
+2080721,16,17,OBJECT,dress,chainsaw,error
+2080721,17,8,LOCATION,school,waterfall,error
+2080721,20,3,ANIMAL,bird,sheep,error
+2080721,22,11,OBJECT,gals,camera,error
+2080721,23,5,LOCATION,school,circus,error
+2080721,28,4,LOCATION,school,post office,error
+2080721,36,1,LOCATION,store,theatre,error
+2080812,3,19,OBJECT,time,handbag,error
+2080812,8,23,OBJECT,mirror,wallet,error
+2080812,10,33,LOCATION,pocket,hospital,error
+2080812,33,29,LOCATION,field,restaurant,error
+2080812,36,33,OBJECT,needle,keys,error
+2080812,37,35,OBJECT,cars,hat,error
+2080713,4,33,OBJECT,gals,keys,error
+2080713,14,31,OBJECT,glasese,umbrella,"wrong event, correct category"
+2080739,12,39,LOCATION,school,supermarket,error
+2080739,15,43,OBJECT,cu[,scissors,error
+2080720,4,52,OBJECT,shoe#,calculator,"wrong event, correct category"
+2080720,30,40,LOCATION,cinrma,cinema,1
+2080720,38,39,LOCATION,lightjosue,supermarket,"wrong event, correct category"
+2083627,10,4,LOCATION,station,post office,error
+2083627,11,8,OBJECT,came,ice cream,error
+2083627,12,7,OBJECT,sungalsses,book,error
+2083627,19,13,ANIMAL,hne,chicken,error
+2083627,22,14,LOCATION,train station,railway station,1
+2083627,23,4,OBJECT,rucksack,backpack,1
+2083627,28,17,LOCATION,dentsit,gym,"wrong event, correct category"
+2088711,8,9,OBJECT,milk,spoon,error
+2088711,10,12,OBJECT,xe,mug,error
+2088711,15,6,LOCATION,house,mountain,error
+2088711,18,1,LOCATION,casine,theatre,"wrong event, correct category"
+2088711,26,18,LOCATION,college,university,1
+2088711,36,15,LOCATION,zoo,living room,error
+2104752,3,9,OBJECT,basket,spoon,error
+2104752,4,4,LOCATION,pool,post office,"wrong event, correct category"
+2104752,5,12,OBJECT,fork,mug,error
+2104752,6,2,LOCATION,pool,classroom,"wrong event, correct category"
+2104752,13,18,ANIMAL,skunk,wolf,error
+2104752,14,7,OBJECT,cards,book,error
+2104752,20,8,OBJECT,bread,ice cream,error
+2104752,24,5,OBJECT,fork,carrot,error
+2083615,8,11,LOCATION,school,garden,error
+2083615,10,8,LOCATION,movie,waterfall,error
+2083615,13,14,OBJECT,hacksaw,glasses,error
+2083678,24,2,LOCATION,libraray,classroom,"wrong event, correct category"
+2083678,27,14,ANIMAL,meercat,pig,"wrong event, correct category"
+2083678,32,8,OBJECT,shoe#,ice cream,"wrong event, correct category"
+2083612,7,21,OBJECT,airplane,whisk,error
+2083612,20,19,OBJECT,hat',handbag,"wrong event, correct category"
+2083612,32,33,OBJECT,rope,keys,error
+2083612,35,22,ANIMAL,tig,panda,error
+2083605,6,33,LOCATION,hostpi,hospital,1
+2083605,16,27,ANIMAL,frong,platypus,"wrong event, correct category"
+2083605,19,25,ANIMAL,ba##,dragonfly,error
+2083605,29,25,LOCATION,barn,shed,1
+2104761,5,20,OBJECT,ice,violin,error
+2104761,6,36,LOCATION,street,city,error
+2104761,10,34,LOCATION,prison,jail,1
+2104761,15,23,OBJECT,earings,wallet,error
+2104761,16,27,ANIMAL,moth,platypus,error
+2104761,17,31,LOCATION,outside,park,error
+2104761,19,22,OBJECT,drink,lamp,error
+2104761,20,19,OBJECT,tre,handbag,error
+2104761,26,19,ANIMAL,rhino,koala,error
+2104761,27,23,ANIMAL,rhino,dolphin,error
+2104761,31,31,OBJECT,rhino,umbrella,error
+2104761,33,20,ANIMAL,rhino,lizard,error
+2104761,37,29,LOCATION,resteraunt,restaurant,1
+2113701,3,19,OBJECT,bag,handbag,error
+2113701,15,24,OBJECT,buc,vase,error
+2113701,36,28,LOCATION,desert,river,error
+2083602,3,26,OBJECT,binculors,bottle,"wrong event, correct category"
+2083602,4,21,LOCATION,mall,aquarium,error
+2083602,6,28,OBJECT,canal,bike,error
+2083602,8,20,LOCATION,donkey,garage,error
+2083602,20,19,LOCATION,train,stadium,error
+2083602,25,23,OBJECT,meercat,wallet,"wrong event, wrong category"
+2083602,26,36,LOCATION,mall,city,error
+2083602,32,19,OBJECT,binoculors,handbag,"wrong event, correct category"
+2088758,7,27,OBJECT,socks,sock,1
+2088758,14,19,LOCATION,grocery store,stadium,"wrong event, correct category"
+2088758,33,19,OBJECT,purse,handbag,error
+2088758,34,34,LOCATION,jail',jail,1
+2088758,35,25,ANIMAL,came;,dragonfly,"wrong event, correct category"
+2104763,12,26,OBJECT,house,bottle,error
+2104763,13,30,OBJECT,paper,cake,error
+2104763,16,27,OBJECT,socks,sock,1
+2104763,17,23,LOCATION,train,balcony,error
+2104763,19,25,OBJECT,earphones,headphones,1
+2104763,28,20,OBJECT,bowl,violin,error
+2104763,29,19,OBJECT,pear,handbag,error
+2104763,30,23,OBJECT,swing,wallet,error
+2104763,32,34,LOCATION,prison,jail,1
+2104787,7,31,ANIMAL,rhino,lion,error
+2104787,11,28,OBJECT,bicycle,bike,1
+2104787,14,35,ANIMAL,alligator,crocodile,1
+2104787,38,21,OBJECT,"ardraverkerfjwf.,djf",whisk,error
+2113703,7,24,LOCATION,shop,bakery,error
+2113703,10,28,OBJECT,bicycle,bike,1
+2113703,13,27,OBJECT,spoc,sock,error
+2113703,14,21,LOCATION,shop,aquarium,error
+2113703,15,30,OBJECT,newspaper,cake,error
+2113703,36,23,OBJECT,newspaper,wallet,error
+2083616,3,28,LOCATION,stadium\,river,"wrong event, correct category"
+2083616,15,33,OBJECT,idk,keys,error
+2083616,29,22,LOCATION,outside,cafe,error
+2083616,37,23,LOCATION,campsite\,balcony,"wrong event, correct category"
+2083652,8,29,LOCATION,b,restaurant,error
+2083652,26,27,OBJECT,socks,sock,1
+2104774,4,24,ANIMAL,walrus,ant,error
+2104774,13,29,LOCATION,school,restaurant,error
+2104774,23,31,ANIMAL,lie,lion,error
+2104774,25,27,OBJECT,socks,sock,1
+2105515,15,29,LOCATION,shop,restaurant,error
+2105515,18,25,LOCATION,shop,shed,error
+2105515,27,19,LOCATION,shop,stadium,error
+2113688,18,36,OBJECT,plate,banana,error
+2113688,23,30,OBJECT,birthday cake,cake,1
+2113688,27,33,ANIMAL,sloth,fox,error
+2113688,30,27,OBJECT,towel,sock,error
+2083679,6,49,LOCATION,field,factory,error
+2083679,8,41,OBJECT,cap,whistle,error
+2083679,10,54,LOCATION,zoo,pharmacy,error
+2083679,14,47,ANIMAL,fiah,peacock,error
+2083679,25,53,OBJECT,tv,television,1
+2083679,31,45,LOCATION,disco,nightclub,1
+2083679,36,50,OBJECT,applet,flower,error
+2083679,38,39,ANIMAL,rat,squirrel,error
+2104745,4,38,OBJECT,toothpick,candle,error
+2104745,11,50,LOCATION,no idea,basement,error
+2104745,12,46,ANIMAL,goose,dog,error
+2104745,15,43,ANIMAL,goose,octopus,error
+2104745,16,52,LOCATION,school,museum,error
+2104745,25,47,LOCATION,street,harbour,error
+2104745,34,54,OBJECT,drill,hammer,error
+2104817,7,43,ANIMAL,bird,octopus,error
+2104817,8,41,OBJECT,pool,whistle,"wrong event, wrong category"
+2104817,9,52,LOCATION,cls,museum,error
+2104817,13,45,ANIMAL,owl,aardvark,error
+2104817,19,38,OBJECT,jackr,candle,error
+2083637,7,48,OBJECT,coat,jacket,1
+2083637,15,49,ANIMAL,no ide,lobster,error
+2083637,16,53,ANIMAL,bird,mouse,error
+2104757,4,41,LOCATION,owl,library,error
+2104757,10,42,LOCATION,pool,swimming pool,1
+2104757,15,51,ANIMAL,moose,whale,error
+2104757,24,37,OBJECT,telephone,phone,1
+2104757,25,52,LOCATION,offic,museum,error
+2104757,28,49,LOCATION,warehouse,factory,error
+2113690,4,43,OBJECT,tourch,scissors,"wrong event, correct category"
+2113690,5,48,OBJECT,k,jacket,error
+2113690,6,39,LOCATION,b,supermarket,error
+2113690,7,45,OBJECT,boat,pen,error
+2113690,8,44,OBJECT,coat,binoculars,error
+2113690,15,37,LOCATION,giffare,kitchen,error
+2113690,17,38,LOCATION,outdoors,lake,error
+2113690,18,41,LOCATION,fairground,library,error
+2113690,22,37,OBJECT,tape,phone,error
+2113690,30,39,OBJECT,sand,drum,error
+2113690,31,42,OBJECT,boat,balloon,error
+2113690,36,43,ANIMAL,octupous,octopus,1
+2083634,4,51,OBJECT,necklase,necklace,1
+2083634,5,40,ANIMAL,wh,elephant,error
+2083634,9,52,OBJECT,spade,calculator,error
+2083634,10,53,OBJECT,cheese,television,error
+2083634,19,50,OBJECT,saw,flower,error
+2083634,20,45,LOCATION,meausem,nightclub,"wrong event, correct category"
+2083634,21,44,OBJECT,binocluaras,binoculars,1
+2083634,26,41,LOCATION,meausem,library,"wrong event, correct category"
+2083634,27,54,ANIMAL,beevger,beaver,1
+2083634,33,47,OBJECT,picnic,jigsaw,error
+2083634,35,39,LOCATION,meausem,supermarket,"wrong event, correct category"
+2083634,37,50,ANIMAL,aazark,ostrich,"wrong event, correct category"
+2083814,6,44,LOCATION,len,car park,error
+2113700,17,40,ANIMAL,ostricth,elephant,"wrong event, correct category"
+2083628,4,9,ANIMAL,meercat,butterfly,"wrong event, correct category"
+2083628,7,12,ANIMAL,polar bear,bear,1
+2083628,10,10,ANIMAL,pelican,flamingo,error
+2083628,11,11,ANIMAL,deer,goat,error
+2083628,16,18,LOCATION,house,university,error
+2083628,17,15,LOCATION,sea,living room,error
+2083628,19,1,OBJECT,bowl,dice,error
+2083628,33,8,LOCATION,wa,waterfall,error
+2113692,13,13,LOCATION,garah,forest,error
+2113692,32,5,ANIMAL,s,spider,error
+2104762,38,10,ANIMAL,flamengo,flamingo,1
+2113693,7,2,LOCATION,school,classroom,error
+2113693,15,7,OBJECT,compass,book,error
+2113693,16,10,OBJECT,watch,box,error
+2113693,17,5,LOCATION,dessert,circus,error
+2113693,21,15,LOCATION,lounge,living room,1
+2083601,3,2,ANIMAL,owl,snake,error
+2083601,8,8,LOCATION,densi,waterfall,error
+2083601,16,16,OBJECT,drink,statue,error
+2083601,17,17,OBJECT,pencil,chainsaw,error
+2083601,34,7,OBJECT,kangraoo book\,book,error
+2088745,35,2,LOCATION,school,classroom,error
+2088770,9,9,LOCATION,ba,bank,error
+2088770,11,17,OBJECT,he,chainsaw,error
+2088770,14,2,ANIMAL,besr,snake,error
+2088770,15,14,OBJECT,ba,glasses,error
+2088770,16,1,ANIMAL,],fish,error
+2088770,17,8,LOCATION,ho,waterfall,error
+2088770,18,15,OBJECT,ba,ring,error
+2088770,27,6,LOCATION,],mountain,error
+2088770,31,10,OBJECT,l,box,error
+2088770,34,3,LOCATION,g,church,error
+2088770,36,18,ANIMAL,l,wolf,error
+2088770,37,4,LOCATION,bet,post office,error
+2113697,3,7,LOCATION,shop,treehouse,error
+2113697,4,16,OBJECT,socks,statue,"wrong event, correct category"
+2113697,6,12,LOCATION,zoo,lighthouse,error
+2113697,8,15,OBJECT,socks,ring,"wrong event, correct category"
+2113697,10,13,OBJECT,socks,ball,"wrong event, correct category"
+2113697,18,10,LOCATION,shop,hairdressers,error
+2113697,21,3,LOCATION,field,church,error
+2113697,31,5,LOCATION,libaray,circus,"wrong event, correct category"
+2113697,33,1,LOCATION,zoo,theatre,error
+2104760,6,20,OBJECT,parking lot,violin,error
+2104760,8,35,LOCATION,parking lot,bus stop,"wrong event, correct category"
+2104760,9,34,LOCATION,hill,jail,error
+2104760,15,32,LOCATION,owl,bedroom,error
+2104760,16,33,LOCATION,parking lot,hospital,"wrong event, correct category"
+2104760,17,21,OBJECT,bag,whisk,error
+2104760,19,31,LOCATION,parking lot,park,"wrong event, correct category"
+2104760,20,22,OBJECT,car,lamp,error
+2104760,21,32,OBJECT,bed,guitar,error
+2104760,25,36,OBJECT,watch,banana,error
+2104760,37,22,ANIMAL,owl,panda,error
+2083651,8,29,OBJECT,rake,paintbrush,error
+2083651,14,27,OBJECT,socks,sock,1
+2083651,18,22,LOCATION,bathroom,cafe,error
+2083651,25,33,LOCATION,bus,hospital,error
+2083651,31,36,LOCATION,boat,city,error
+2083651,38,22,OBJECT,table,lamp,error
+2088710,11,30,OBJECT,band\,cake,error
+2088710,27,35,LOCATION,bus \stop,bus stop,1
+2104820,12,30,OBJECT,drink,cake,error
+2104820,17,19,LOCATION,ct,stadium,error
+2104820,26,35,LOCATION,bustop,bus stop,1
+2113796,4,35,ANIMAL,aligator,crocodile,1
+2113796,8,33,ANIMAL,squ,fox,error
+2113796,19,19,LOCATION,cinae,stadium,"wrong event, correct category"
+2113796,20,29,OBJECT,painting,paintbrush,error
+2088713,13,29,LOCATION,anteater,restaurant,error
+2088713,14,30,LOCATION,school,dentists,error
+2088713,15,26,LOCATION,station,castle,error
+2088713,23,29,OBJECT,spade,paintbrush,error
+2088713,28,26,OBJECT,knife,bottle,error
+2088713,36,22,LOCATION,zoo,cafe,error
+2113742,5,27,LOCATION,not su,bowling alley,error
+2113742,9,22,ANIMAL,rhino,panda,error
+2083617,13,51,LOCATION,train,vineyard,error
+2083617,19,49,LOCATION,pool,factory,"wrong event, correct category"
+2083617,20,52,LOCATION,shop,museum,error
+2083617,31,44,LOCATION,trainstation,car park,"wrong event, correct category"
+2104751,7,45,ANIMAL,owl,aardvark,error
+2104751,12,54,LOCATION,shop,pharmacy,error
+2104751,13,52,LOCATION,sea,museum,error
+2104751,14,41,OBJECT,wand,whistle,error
+2104751,15,48,ANIMAL,toad,duck,error
+2104751,21,43,LOCATION,shop,casino,error
+2104751,37,54,OBJECT,drill,hammer,error
+2113689,8,53,LOCATION,house,beach,error
+2113689,12,38,OBJECT,jar,candle,error
+2088714,10,38,LOCATION,c,lake,error
+2088714,15,41,LOCATION,acquarium,library,error
+2088714,21,44,ANIMAL,hyppo,hippo,1
+2088714,29,39,OBJECT,list,drum,error
+2088714,31,37,OBJECT,knife,phone,error
+2113752,9,53,OBJECT,pencil,television,error
+2113752,19,52,OBJECT,pencil,calculator,error
+2113752,21,41,LOCATION,zoo,library,error
+2113752,35,47,OBJECT,puzzle,jigsaw,error
+2125189,6,17,LOCATION,woods,gym,error
+2125189,15,3,OBJECT,glaase,skipping rope,error
+2125189,27,17,OBJECT,gorilla,chainsaw,error
+2125189,28,8,LOCATION,jungle,waterfall,error
+2125189,37,3,ANIMAL,lamb,sheep,error
+2155931,7,17,LOCATION,hotel,gym,error
+2155931,14,12,ANIMAL,co,bear,error
+2155931,26,10,LOCATION,hairdresserd,hairdressers,1
+2155931,30,9,LOCATION,dont know,bank,error
+2125191,14,1,LOCATION,house,theatre,error
+2128004,16,6,LOCATION,world,mountain,error
+2128004,25,3,OBJECT,jumping rope,skipping rope,1
+2128004,28,14,LOCATION,railstation,railway station,1
+2131205,4,17,ANIMAL,alligator,badger,error
+2131205,19,14,ANIMAL,rhino,pig,error
+2131205,22,15,LOCATION,sitting room,living room,1
+2131205,29,6,OBJECT,compass,clock,error
+2131205,37,14,LOCATION,train station,railway station,1
+2155929,7,7,OBJECT,rop,book,error
+2155929,16,11,OBJECT,a,camera,error
+2155929,26,4,OBJECT,backbag,backpack,1
+2127986,18,13,OBJECT,whick,ball,error
+2127986,19,9,LOCATION,cafeteria,bank,error
+2127986,22,3,LOCATION,movies,church,error
+2127986,25,1,LOCATION,movies,theatre,error
+2127986,26,10,OBJECT,aardwark,box,"wrong event, wrong category"
+2128039,19,9,LOCATION,house,bank,error
+2128039,22,5,LOCATION,ci,circus,error
+2128039,35,1,LOCATION,cinema#,theatre,"wrong event, correct category"
+2131306,8,7,LOCATION,station,treehouse,error
+2131306,15,16,OBJECT,toy,statue,error
+2131306,18,13,OBJECT,knife,ball,error
+2131306,23,14,ANIMAL,rhino,pig,error
+2131306,32,11,OBJECT,rake,camera,error
+2125207,9,19,OBJECT,footb,handbag,error
+2125207,12,32,LOCATION,anteater,bedroom,error
+2125207,20,34,LOCATION,anteater,jail,error
+2128015,13,32,LOCATION,otter,bedroom,error
+2128015,22,32,OBJECT,guitar],guitar,1
+2127990,4,28,OBJECT,bicycle,bike,1
+2127990,9,31,ANIMAL,d,lion,error
+2127990,17,24,LOCATION,shop,bakery,error
+2127990,24,35,LOCATION,shop,bus stop,error
+2127990,34,36,LOCATION,shop,city,error
+2127989,7,22,LOCATION,house,cafe,error
+2127989,14,29,OBJECT,watch,paintbrush,error
+2127989,15,31,ANIMAL,deer,lion,error
+2127989,36,32,LOCATION,dock,bedroom,error
+2138050,4,19,LOCATION,runway,stadium,error
+2138050,15,26,OBJECT,jar,bottle,error
+2138050,21,24,OBJECT,jar,vase,error
+2138050,30,34,LOCATION,prison,jail,1
+2138050,33,19,OBJECT,bag,handbag,error
+2125200,4,32,OBJECT,helmet,guitar,error
+2125200,5,36,OBJECT,ipod,banana,error
+2125200,11,29,LOCATION,shop,restaurant,error
+2125200,15,35,OBJECT,flippers,hat,error
+2125200,16,28,LOCATION,bakers,river,"wrong event, correct category"
+2125200,17,26,LOCATION,travel shop,castle,error
+2125200,25,20,LOCATION,golf course,garage,error
+2125200,26,22,LOCATION,zoo,cafe,error
+2125200,31,34,ANIMAL,tazmanian devil,cat,error
+2125200,32,21,LOCATION,train station,aquarium,"wrong event, correct category"
+2125200,34,25,OBJECT,ipod,headphones,error
+2125200,35,28,OBJECT,stone,bike,error
+2125200,38,19,LOCATION,butchers,stadium,error
+2125213,5,24,ANIMAL,rat,ant,error
+2125213,7,21,ANIMAL,a,raccoon,error
+2125213,16,25,LOCATION,sea,shed,error
+2125213,18,29,LOCATION,dinner,restaurant,error
+2125213,20,22,ANIMAL,d,panda,error
+2125213,21,22,LOCATION,restorant,cafe,"wrong event, correct category"
+2125213,22,35,ANIMAL,crocodill,crocodile,1
+2125213,31,27,OBJECT,socks,sock,1
+2125213,33,31,ANIMAL,rat,lion,error
+2125213,37,26,OBJECT,jar,bottle,error
+2125213,38,24,LOCATION,jar,bakery,error
+2125186,30,48,LOCATION,ma,windmill,error
+2125186,36,42,ANIMAL,bunny,rabbit,1
+2128127,6,45,ANIMAL,owl,aardvark,error
+2128127,18,47,ANIMAL,do,peacock,error
+2128127,22,43,LOCATION,cassion,casino,1
+2155936,13,53,LOCATION,office,beach,error
+2155936,15,54,LOCATION,beever,pharmacy,error
+2155936,22,38,ANIMAL,peecocj,bee,"wrong event, correct category"
+2155936,23,52,OBJECT,can,calculator,error
+2155936,28,48,LOCATION,cinemar,windmill,"wrong event, correct category"
+2155936,29,41,ANIMAL,penguine,penguin,1
+2128064,3,42,LOCATION,pool,swimming pool,1
+2128064,5,47,OBJECT,purse,jigsaw,error
+2128064,10,49,ANIMAL,hor,lobster,error
+2128064,14,46,OBJECT,stick,toothbrush,error
+2128064,18,50,ANIMAL,peachpke,ostrich,error
+2128064,29,39,OBJECT,drumkit,drum,1
+2128064,35,50,LOCATION,pasement,basement,1
+2131208,6,37,LOCATION,aligator,kitchen,error
+2131208,10,41,LOCATION,school,library,error
+2131208,14,47,OBJECT,bag,jigsaw,error
+2131208,15,44,OBJECT,bacjpack,binoculars,"wrong event, correct category"
+2131208,18,38,LOCATION,wasp,lake,error
+2131208,27,53,LOCATION,shop,beach,error
+2131208,30,47,ANIMAL,bird,peacock,error
+2131208,37,42,OBJECT,chair,balloon,error
+2131208,38,50,LOCATION,school,basement,error
+2155928,20,45,OBJECT,chum,pen,error
+2125194,4,51,OBJECT,sunglasses,necklace,error
+2125194,7,49,OBJECT,sunglasses,screwdriver,error
+2125194,16,54,OBJECT,sunglasses,hammer,error
+2125194,34,37,LOCATION,bus,kitchen,error
+2125183,4,37,ANIMAL,deer,horse,error
+2125183,7,52,OBJECT,scics,calculator,error
+2125183,9,51,OBJECT,can,necklace,error
+2125183,38,42,LOCATION,s,swimming pool,error
+2128012,6,53,OBJECT,tv,television,1
+2128012,10,51,OBJECT,winery,necklace,error
+2128012,13,48,LOCATION,farm,windmill,error
+2128012,19,46,LOCATION,cabin,cave,error
+2128012,23,45,OBJECT,p,pen,error
+2128012,34,39,LOCATION,house,supermarket,error
+2131212,12,46,LOCATION,pi,cave,error
+2131212,13,52,OBJECT,sea,calculator,error
+2131212,23,47,OBJECT,coat,jigsaw,error
+2155924,8,54,OBJECT,wood,hammer,error
+2155924,9,53,OBJECT,flag,television,error
+2155924,13,50,OBJECT,ladder,flower,error
+2155924,35,42,LOCATION,pool,swimming pool,1
+2128010,17,9,ANIMAL,fly,butterfly,error
+2125180,4,5,LOCATION,opera,circus,error
+2125180,16,1,LOCATION,opera,theatre,error
+2125180,18,10,OBJECT,scarf,box,error
+2125180,20,9,OBJECT,watch,spoon,error
+2128011,4,6,LOCATION,giarfee,mountain,"correct event, wrong category"
+2128011,18,4,LOCATION,po,post office,error
+2128011,20,12,OBJECT,j,mug,error
+2128011,22,16,LOCATION,cruiseshup,cruise ship,1
+2128011,23,6,OBJECT,cl,clock,error
+2128011,37,3,OBJECT,skiprope,skipping rope,1
+2128013,8,5,LOCATION,playground,circus,error
+2128013,12,3,LOCATION,sh,church,error
+2128013,13,1,LOCATION,school,theatre,error
+2128013,14,12,OBJECT,spade,mug,error
+2128013,32,14,LOCATION,train station,railway station,1
+2128013,35,7,ANIMAL,kangeroo,kangaroo,1
+2131260,5,4,LOCATION,shop,post office,error
+2131260,8,7,OBJECT,cup,book,error
+2131260,10,9,OBJECT,headpnhes,spoon,"wrong event, correct category"
+2131260,11,11,OBJECT,bag,camera,error
+2131260,13,17,ANIMAL,swo,badger,error
+2131260,14,3,LOCATION,pla,church,error
+2131260,15,5,LOCATION,sho[p,circus,error
+2131260,17,12,OBJECT,cup,mug,error
+2131260,19,10,OBJECT,bandg,box,error
+2131260,29,10,ANIMAL,flampigo,flamingo,1
+2131260,35,16,LOCATION,office,cruise ship,error
+2131260,36,9,ANIMAL,butterfuly,butterfly,1
+2131260,37,5,OBJECT,carrots,carrot,1
+2155933,5,17,ANIMAL,otte,badger,error
+2155933,18,2,LOCATION,pool,classroom,"wrong event, correct category"
+2155933,20,11,OBJECT,watch,camera,error
+2155933,33,6,OBJECT,watch,clock,error
+2125205,7,17,OBJECT,pin,chainsaw,error
+2125205,8,13,OBJECT,balls,ball,1
+2125205,10,9,LOCATION,hill,bank,error
+2125205,12,12,LOCATION,shop,lighthouse,error
+2125205,32,4,LOCATION,hill,post office,error
+2125205,35,3,LOCATION,shop,church,error
+2125205,38,11,OBJECT,chair,camera,error
+2125198,17,18,OBJECT,trophey,trophy,1
+2125198,36,16,ANIMAL,hamt,hamster,error
+2125196,12,36,LOCATION,office,city,error
+2125196,32,30,LOCATION,office,dentists,error
+2128017,9,35,LOCATION,h,bus stop,error
+2128017,17,32,LOCATION,d,bedroom,error
+2128017,21,28,LOCATION,hill,river,error
+2128017,24,29,LOCATION,house,restaurant,error
+2128017,29,22,ANIMAL,fly,panda,error
+2128017,36,34,OBJECT,bucke5t,bucket,1
+2128017,37,36,OBJECT,car,banana,error
+2156020,10,22,OBJECT,gun,lamp,error
+2156020,13,34,LOCATION,street,jail,error
+2156020,14,23,OBJECT,car,wallet,error
+2156020,18,21,OBJECT,watch,whisk,error
+2156020,19,20,OBJECT,bag,violin,error
+2156020,20,33,LOCATION,house,hospital,error
+2156020,21,36,OBJECT,bag,banana,error
+2156020,32,26,LOCATION,house,castle,error
+2128001,8,34,ANIMAL,cat\,cat,1
+2128001,19,35,ANIMAL,c,crocodile,error
+2128038,6,19,LOCATION,librsry,stadium,"wrong event, correct category"
+2128038,18,24,LOCATION,shop,bakery,error
+2128038,23,34,LOCATION,prison,jail,1
+2128038,26,19,OBJECT,brush,handbag,error
+2128038,28,24,OBJECT,notebook,vase,error
+2128038,31,29,ANIMAL,alligator,reindeer,error
+2128130,7,28,OBJECT,bicycle,bike,1
+2128130,13,32,ANIMAL,tutrtle,tortoise,error
+2128130,29,35,LOCATION,bus,bus stop,error
+2128130,35,29,ANIMAL,deer,reindeer,error
+2155958,20,28,OBJECT,sater,bike,error
+2155958,25,29,ANIMAL,octossps,reindeer,"wrong event, correct category"
+2155958,32,33,LOCATION,prison,hospital,"wrong event, correct category"
+2125197,3,35,OBJECT,watch,hat,error
+2125197,5,36,OBJECT,watch,banana,error
+2125197,10,33,OBJECT,boat,keys,error
+2125197,12,21,ANIMAL,fo,raccoon,error
+2125197,14,31,OBJECT,spade,umbrella,error
+2125197,20,27,LOCATION,rock,bowling alley,error
+2125197,21,35,ANIMAL,crocodilr,crocodile,1
+2125197,32,27,OBJECT,socks,sock,1
+2125197,35,29,OBJECT,watch,paintbrush,error
+2125241,11,29,LOCATION,train,restaurant,error
+2125241,12,24,ANIMAL,owl,ant,error
+2125241,14,35,OBJECT,ampui,hat,error
+2125241,15,27,LOCATION,bus,bowling alley,error
+2125241,16,22,ANIMAL,squireel,panda,"wrong event, correct category"
+2125241,23,29,OBJECT,bird,paintbrush,error
+2125241,25,36,ANIMAL,squireel,frog,"wrong event, correct category"
+2125241,33,32,ANIMAL,turle,tortoise,error
+2128009,14,26,LOCATION,a,castle,error
+2156001,3,21,ANIMAL,octopos,raccoon,"wrong event, correct category"
+2156001,15,23,ANIMAL,swan,dolphin,error
+2156001,16,27,LOCATION,pool,bowling alley,"wrong event, correct category"
+2156001,22,33,ANIMAL,crocofile,fox,"wrong event, correct category"
+2156001,30,20,LOCATION,bin,garage,error
+2125192,9,40,OBJECT,g,shoe,error
+2125192,15,49,LOCATION,town,factory,"wrong event, correct category"
+2125192,17,41,OBJECT,bowl,whistle,error
+2125192,18,37,OBJECT,bow,phone,error
+2125192,19,51,LOCATION,sea,vineyard,error
+2125192,20,42,OBJECT,tie,balloon,error
+2125192,29,42,ANIMAL,see,rabbit,error
+2125192,34,44,LOCATION,town,car park,"wrong event, correct category"
+2125192,35,47,LOCATION,house,harbour,error
+2125256,5,53,LOCATION,house,beach,error
+2125256,7,51,LOCATION,station,vineyard,error
+2125256,13,39,OBJECT,drun,drum,1
+2125256,14,43,ANIMAL,dycj\\kic,octopus,error
+2125256,18,46,ANIMAL,chicks,dog,error
+2125256,22,51,OBJECT,clocl,necklace,"wrong event, correct category"
+2125256,24,37,ANIMAL,rat,horse,error
+2125256,26,42,ANIMAL,m,rabbit,error
+2125256,27,39,ANIMAL,rat,squirrel,error
+2125256,33,41,ANIMAL,rta,penguin,error
+2125256,35,48,LOCATION,wi,windmill,error
+2125256,36,40,ANIMAL,rat,elephant,error
+2131209,11,54,LOCATION,pub,pharmacy,error
+2131209,18,39,OBJECT,fork,drum,error
+2131209,19,41,OBJECT,scarf,whistle,error
+2131209,20,50,LOCATION,field,basement,error
+2131209,30,54,OBJECT,l,hammer,error
+2131209,37,39,ANIMAL,pengeuin,squirrel,"wrong event, correct category"
+2127996,3,39,LOCATION,shop,supermarket,error
+2127996,4,44,OBJECT,watch,binoculars,error
+2127996,6,46,OBJECT,apple,toothbrush,error
+2127996,12,51,ANIMAL,goose,whale,error
+2127996,14,49,ANIMAL,goose,lobster,error
+2127996,17,50,ANIMAL,goose,ostrich,error
+2127996,37,39,OBJECT,bag,drum,error
+2156476,3,41,LOCATION,fairground,library,error
+2156476,11,49,ANIMAL,bird,lobster,error
+2156476,12,44,OBJECT,neckless,binoculars,"wrong event, correct category"
+2156476,15,43,OBJECT,neckless,scissors,"wrong event, correct category"
+2156476,22,53,LOCATION,house,beach,error
+2125209,3,49,OBJECT,nike,screwdriver,error
+2125209,4,45,LOCATION,nightclib,nightclub,1
+2125209,8,37,ANIMAL,hourse,horse,1
+2125209,13,46,LOCATION,car,cave,error
+2125209,14,50,OBJECT,car,flower,error
+2125209,20,53,OBJECT,car,television,error
+2125209,24,51,ANIMAL,car,whale,error
+2125209,27,43,OBJECT,bag,scissors,error

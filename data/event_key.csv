@@ -1,0 +1,57 @@
+﻿event_no,ANIMAL,OBJECT,LOCATION
+1,fish,dice,theatre
+2,snake,kite,classroom
+3,sheep,skipping rope,church
+4,cow,backpack,post office
+5,spider,carrot,circus
+6,giraffe,clock,mountain
+7,kangaroo,book,treehouse
+8,zebra,ice cream,waterfall
+9,butterfly,spoon,bank
+10,flamingo,box,hairdressers
+11,goat,camera,garden
+12,bear,mug,lighthouse
+13,chicken,ball,forest
+14,pig,glasses,railway station
+15,monkey,ring,living room
+16,hamster,statue,cruise ship
+17,badger,chainsaw,gym
+18,wolf,trophy,university
+19,koala,handbag,stadium
+20,lizard,violin,garage
+21,raccoon,whisk,aquarium
+22,panda,lamp,cafe
+23,dolphin,wallet,balcony
+24,ant,vase,bakery
+25,dragonfly,headphones,shed
+26,bat,bottle,castle
+27,platypus,sock,bowling alley
+28,camel,bike,river
+29,reindeer,paintbrush,restaurant
+30,tiger,cake,dentists
+31,lion,umbrella,park
+32,tortoise,guitar,bedroom
+33,fox,keys,hospital
+34,cat,bucket,jail
+35,crocodile,hat,bus stop 
+36,frog,banana,city
+37,horse,phone,kitchen
+38,bee,candle,lake
+39,squirrel,drum,supermarket
+40,elephant,shoe,cinema
+41,penguin,whistle,library
+42,rabbit,balloon,swimming pool
+43,octopus,scissors,casino
+44,hippo,binoculars,car park
+45,aardvark,pen,nightclub
+46,dog,toothbrush,cave
+47,peacock,jigsaw,harbour
+48,duck,jacket,windmill
+49,lobster,screwdriver,factory
+50,ostrich,flower,basement
+51,whale,necklace,vineyard
+52,crab,calculator,museum
+53,mouse,television,beach
+54,beaver,hammer,pharmacy
+55,meerkat,map,airport
+56,shark,torch,campsite
