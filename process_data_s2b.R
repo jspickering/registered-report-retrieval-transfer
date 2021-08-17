@@ -835,28 +835,6 @@ hyp_3d_es <- ((mean(stim_resp_data_wide$RX_cue_repeat) - mean(stim_resp_data_wid
 
 
 
-# EXPLORATORY inferential statistics: "Hypothesis" 3d alternative ---------
-
-# similar to above but with a 2x2 ANOVA
-# alpha level = 0.0125 (if used as an alternative to the original 3d, otherwise will need to make the alpha level even smaller)
-
-hyp_3d_data_long_alt <- stim_resp_data_long %>%
-  filter(sr_cat == "RP_cue_repeat" | sr_cat == "RP_target_repeat" | sr_cat == "RX_cue_repeat" | sr_cat == "RX_target_repeat") %>%
-  mutate(condition = if_else(startsWith(sr_cat, "RP"), "RP",
-                             if_else(startsWith(sr_cat, "RX"), "RX", "error")),
-         sr = if_else(endsWith(sr_cat, "cue_repeat"), "cue_repeat",
-                      if_else(endsWith(sr_cat, "target_repeat"), "target_repeat", "error")),
-         condition = as_factor(condition),
-         sr = as_factor(sr)) %>%
-  select(!sr_cat)
-
-# anova
-hyp_3d_anova <- aov(mean ~ condition + sr + condition:sr, data = hyp_3d_data_long_alt) %>%
-  tidy()
-summary(hyp_3d_anova)
-
-
-
 # EXPLORATORY inferential statistics: RP or RX first ----------------------
 
 hyp_5_data_long <- merged_data3 %>%
